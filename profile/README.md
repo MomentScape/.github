@@ -23,9 +23,7 @@ As international students, being far from home can often feel isolating. While p
 **Frontend:**
 - A simple, static site that enables users to upload images and access their generated environments.
 
-### Repositories
-- [Frontend Repository](https://github.com/MomentScape/frontend)
-- [Backend Repository](https://github.com/MomentScape/backend)
+![flowchart](flowchart.png)
 
 ## Current Status and Future Steps
 
