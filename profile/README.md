@@ -4,7 +4,7 @@ Have you ever looked at an old photo and thought about reliving the moment? Woul
 
 ## Introduction
 
-MomentScape is a transformative experience designed to turn a photo into a personalized 3D environment that can be explored using a VR headset or through any browser. Inspired by our own experiences as international students, we longed for a way to connect with places and memories far away, such as our homes, family, and beloved pets. The ability to generate an interactive environment from our cherished photos has given us a comforting, immersive way to relive those moments.
+MomentScape is a transformative experience designed to turn a photo into a personalized 3D environment that can be explored using a VR headset or through any browser. Inspired by our own experiences as international students, we longed for a way to connect with places and memories far away, such as our homes, family, and beloved pets. The ability to generate an interactive environment from our cherished photos has given us a comforting, immersive way to relive those moments. **Check Out some outputs from our application [here](https://momentscape.github.io/)**
 
 ## Motivation
 
